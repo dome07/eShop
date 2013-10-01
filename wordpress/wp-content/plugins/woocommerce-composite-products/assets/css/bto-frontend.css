@@ -1,0 +1,92 @@
+.bto_item, .bto_form {
+	padding-top: 10px;
+	clear: both;
+}
+
+.bto_item_options {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.bto_item .images {
+	float: left;
+}
+
+.bto_item .details {
+	overflow: hidden;
+}
+
+.bto_item .images a {
+	margin-right: 20px;
+	margin-top:	4px;
+	display: block;
+}
+
+.bto_item .bto_item_summary {
+	overflow: hidden;
+	height: 100%;
+	min-height: 30px;
+}
+
+.bto_item_summary.single {
+	-webkit-transition: none;
+	overflow: hidden;
+}
+
+.bto_item.disabled .reset_variations {
+	visibility: hidden!important;
+}
+
+.bto_item .bto_item_summary .content {
+	overflow: hidden;
+}
+
+.bto_item .variations .attribute-options {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.bto_item .variations .attribute-options label {
+
+}
+
+.bto_item .variations .attribute-options select {
+	display: inline;
+}
+
+.bto_item .variations .reset_variations {
+	display: block;
+}
+
+.bto_item .bundled_item_wrap .price, .bto_item .bundled_item_wrap p.stock {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 15px;
+	display: inline-block;
+}
+
+.multipage_progress {
+	overflow: hidden;
+	margin-bottom: 10px;
+	margin-top: 15px;
+}
+
+.multipage_progress a.button {
+	cursor: pointer;
+}
+
+.multipage_progress .next {
+	float: right;
+}
+
+.multipage_progress .prev {
+	float: left;
+}
+
+.review {
+	margin-bottom: 10px;
+}
+
+.review dd {
+	margin-left: 10px;
+}

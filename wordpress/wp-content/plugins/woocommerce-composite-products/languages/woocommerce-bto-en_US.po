@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Composite Products v1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-06-29 13:31:02+0000\n"
+"Last-Translator: manu <psyx@somewherewarm.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/class-wc-product-bto.php:138
+#: classes/class-wc-product-bto.php:193
+#: classes/class-wc-product-bto.php:202
+#: classes/class-wc-product-bto.php:234
+#: classes/class-wc-product-bto.php:240
+#: templates/single-product/bto-item-options.php:48
+#: templates/single-product/bto-item-options.php:66
+#: templates/single-product/bto-item-options.php:68
+#: woocommerce-composite-products.php:1310
+#: woocommerce-composite-products.php:1373
+#@ woocommerce
+msgid "Free!"
+msgstr ""
+
+#: classes/class-wc-product-bto.php:148
+#@ woocommerce-bto
+msgid "Total"
+msgstr ""
+
+#: templates/single-product/add-to-cart/bto-cart-button.php:12
+#@ woocommerce-bto
+msgid "Review"
+msgstr ""
+
+#: templates/single-product/add-to-cart/bto-cart-button.php:22
+#, php-format
+#@ default
+msgid "Step <span class=\"step\">%d</span> of <span class=\"steps\">%d</span> - Review"
+msgstr ""
+
+#: templates/single-product/add-to-cart/bto-cart-button.php:63
+#@ woocommerce
+msgid "Add to cart"
+msgstr ""
+
+#: templates/single-product/bto-item-options.php:9
+#@ woocommerce-bto
+msgid "Select an option"
+msgstr ""
+
+#: templates/single-product/bto-item-options.php:19
+#@ woocommerce-bto
+msgid "None"
+msgstr ""
+
+#: templates/single-product/bto-item-options.php:81
+#@ woocommerce-bto
+msgid "Clear options"
+msgstr ""
+
+#: templates/single-product/bto-item-summary.php:14
+#: templates/single-product/bto-multipage-item.php:69
+#@ woocommerce_bto
+msgid "No options are currently available for this item."
+msgstr ""
+
+#: templates/single-product/bto-multipage-item.php:23
+#, php-format
+#@ default
+msgid "Step <span class=\"step\">%d</span> of <span class=\"steps\">%d</span> - Select <span class=\"item_title\">%s</span>"
+msgstr ""
+
+#: templates/single-product/summary/bto-product-summary-variable.php:37
+#@ woocommerce
+msgid "Choose an option"
+msgstr ""
+
+#: templates/single-product/summary/bto-product-summary-variable.php:82
+#@ woocommerce
+msgid "Clear selection"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: woocommerce-composite-products.php:0
+#@ woocommerce-bto
+msgid "WooCommerce Composite Products"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: woocommerce-composite-products.php:0
+#@ woocommerce-bto
+msgid "http://woothemes.com/woocommerce"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: woocommerce-composite-products.php:0
+#@ woocommerce-bto
+msgid "Woocommerce extension for creating composite products, based on existing items."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: woocommerce-composite-products.php:0
+#@ woocommerce-bto
+msgid "SomewhereWarm"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: woocommerce-composite-products.php:0
+#@ woocommerce-bto
+msgid "http://www.somewherewarm.net/"
+msgstr ""
+
+#: woocommerce-composite-products.php:328
+#@ woocommerce-bto
+msgid "Part of"
+msgstr ""
+
+#: woocommerce-composite-products.php:491
+#@ woocommerce-bto
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce-composite-products.php:979
+#, php-format
+#@ woocommerce-bto
+msgid "The configuration you have selected cannot be added to the cart since \"%s\" is out of stock."
+msgstr ""
+
+#: woocommerce-composite-products.php:984
+#, php-format
+#@ woocommerce-bto
+msgid "The configuration you have selected cannot be added to the cart since there is not enough stock of \"%s\". We have %s in stock."
+msgstr ""
+
+#: woocommerce-composite-products.php:1001
+#: woocommerce-composite-products.php:1010
+#, php-format
+#@ woocommerce-bto
+msgid "<a href=\"%s\" class=\"button\">%s</a>The configuration you have selected cannot be added to the cart since there is not enough stock of \"%s\" &mdash; we have %s in stock and you already have %s in your cart."
+msgstr ""
+
+#: woocommerce-composite-products.php:1001
+#: woocommerce-composite-products.php:1010
+#@ woocommerce
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: woocommerce-composite-products.php:1053
+#: woocommerce-composite-products.php:1124
+#: woocommerce-composite-products.php:1173
+#@ woocommerce
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: woocommerce-composite-products.php:1087
+#, php-format
+#@ woocommerce-bto
+msgid "Sorry, the selected variation of &quot;%s&quot; cannot be purchased."
+msgstr ""
+
+#: woocommerce-composite-products.php:1459
+#@ woocommerce-bto
+msgid "Select Options"
+msgstr ""
+
+#: woocommerce-composite-products.php:1580
+#: woocommerce-composite-products.php:1992
+#@ woocommerce-bto
+msgid "Min Quantity"
+msgstr ""
+
+#: woocommerce-composite-products.php:1581
+#: woocommerce-composite-products.php:1998
+#@ woocommerce-bto
+msgid "Max Quantity"
+msgstr ""
+
+#: woocommerce-composite-products.php:1583
+#: woocommerce-composite-products.php:2010
+#@ woocommerce-bto
+msgid "Optional"
+msgstr ""
+
+#: woocommerce-composite-products.php:1584
+#: woocommerce-composite-products.php:1970
+#@ woocommerce
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: woocommerce-composite-products.php:1867
+#@ woocommerce-bto
+msgid "Composite product"
+msgstr ""
+
+#: woocommerce-composite-products.php:1889
+#@ woocommerce-bto
+msgid "Non-Bundled Shipping"
+msgstr ""
+
+#: woocommerce-composite-products.php:1890
+#@ woocommerce-bto
+msgid "If your Composite product consists of items that are assembled or packaged together, leave the box un-checked and just define the shipping properties of the product below. If, however, the composited items are shipped individually, their shipping properties must be retained. In this case, the box must be checked. 'Non-Bundled Shipping' should also be selected when the composited items are all virtual."
+msgstr ""
+
+#: woocommerce-composite-products.php:1896
+#@ woocommerce-bto
+msgid "Per-Item Pricing"
+msgstr ""
+
+#: woocommerce-composite-products.php:1897
+#@ woocommerce-bto
+msgid "When enabled, the Composite product is priced per-item, based on the prices of the selected items."
+msgstr ""
+
+#: woocommerce-composite-products.php:1917
+#@ woocommerce-bto
+msgid "Front-end Style"
+msgstr ""
+
+#: woocommerce-composite-products.php:1921
+#@ woocommerce-bto
+msgid "Single-Page"
+msgstr ""
+
+#: woocommerce-composite-products.php:1922
+#@ woocommerce-bto
+msgid "Multi-Page"
+msgstr ""
+
+#: woocommerce-composite-products.php:1932
+#@ woocommerce
+msgid "Close all"
+msgstr ""
+
+#: woocommerce-composite-products.php:1933
+#@ woocommerce
+msgid "Expand all"
+msgstr ""
+
+#: woocommerce-composite-products.php:1948
+#@ woocommerce
+msgid "Remove"
+msgstr ""
+
+#: woocommerce-composite-products.php:1949
+#@ woocommerce
+msgid "Click to toggle"
+msgstr ""
+
+#: woocommerce-composite-products.php:1577
+#: woocommerce-composite-products.php:1969
+#@ woocommerce-bto
+msgid "Component Options"
+msgstr ""
+
+#: woocommerce-composite-products.php:1578
+#: woocommerce-composite-products.php:1955
+#@ woocommerce-bto
+msgid "Component Name"
+msgstr ""
+
+#: woocommerce-composite-products.php:1579
+#: woocommerce-composite-products.php:1963
+#@ woocommerce-bto
+msgid "Component Description"
+msgstr ""
+
+#: woocommerce-composite-products.php:1752
+#@ woocommerce-bto
+msgid "Please give a Name to all Components before publishing."
+msgstr ""
+
+#: woocommerce-composite-products.php:1856
+#@ woocommerce-bto
+msgid "Please assign at least one product option to every Component. Products can be assigned to Components by clicking on the Component Options field."
+msgstr ""
+
+#: woocommerce-composite-products.php:1931
+#@ woocommerce-bto
+msgid "Composite Components"
+msgstr ""
+
+#: woocommerce-composite-products.php:2025
+#@ woocommerce-bto
+msgid "Add Component"
+msgstr ""
+
+#: templates/single-product/bto-item-options.php:47
+#: templates/single-product/bto-item-options.php:63
+#@ woocommerce-bto
+msgid "- sale!"
+msgstr ""
+
+#: templates/single-product/bto-item-options.php:66
+#@ woocommerce-bto
+msgid "from"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: woocommerce-composite-products.php:0
+#@ woocommerce-bto
+msgid "1.3.0"
+msgstr ""
+
+#: woocommerce-composite-products.php:1234
+#@ woocommerce-bto
+msgid "WooCommerce Composite Products requires at least WooCommerce 2.0.11 in order to function. Please upgrade WooCommerce."
+msgstr ""
+
+#: woocommerce-composite-products.php:1582
+#: woocommerce-composite-products.php:2004
+#@ woocommerce-bto
+msgid "Discount %"
+msgstr ""
+
+#: woocommerce-composite-products.php:1783
+#, php-format
+#@ woocommerce-bto
+msgid "The quantities you entered for '%s' were not valid and have been reset. Please enter positive integer values, with Quantity Min greater than or equal to Quantity Max."
+msgstr ""
+
+#: woocommerce-composite-products.php:1801
+#, php-format
+#@ woocommerce-bto
+msgid "The discount value you entered for '%s' was not valid and has been reset. Please enter a positive integer between 0-100."
+msgstr ""
+
+#: woocommerce-composite-products.php:1845
+#@ woocommerce-bto
+msgid "Please define at least one Component for the Composite Product before publishing. To add a Component, click on the Composition tab and assign at least one product option to each Component."
+msgstr ""
+
+#: woocommerce-composite-products.php:1876
+#@ woocommerce-bto
+msgid "Composition"
+msgstr ""
+
+#: woocommerce-composite-products.php:1917
+#@ woocommerce-bto
+msgid "<strong>Single Page</strong>: Composite Components are presented in a list view. Component options can be selected in any sequence.</br><strong>Multi Page</strong>: Composite Components are presented in a paged view. Component options can only be chosen in sequence. A Review pane is displayed before adding the Composite to the cart."
+msgstr ""
+
+#: woocommerce-composite-products.php:1931
+#@ woocommerce-bto
+msgid "Composite Products are defined by <strong>Components</strong>, similar to how Variable Products are defined by Attributes. Every Composite Component can be mapped to a group of existing Simple or Variable Products - the <strong>Component Options</strong>.</br></br> The <strong>Quantity</strong> of every Component may vary between a Minimum and Maximum value, while Components may also be marked as <strong>Optional</strong>.</br></br><strong>Price Discounts</strong> may also be defined per-Compoenent, and are applied over regular prices: When defined, a Component Discount will override all defined sales prices."
+msgstr ""
+

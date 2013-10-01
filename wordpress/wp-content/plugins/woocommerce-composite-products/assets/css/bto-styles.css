@@ -1,0 +1,13 @@
+.composited_table_item .product-name, .composited_table_item .product-price, .composited_table_item .product-subtotal, .composited_table_item .product-quantity, .composited_table_item .product-total {
+	font-size: 85%;
+}
+
+.composited_table_item td {
+	border-top: none !important;
+	border-bottom: none !important;
+}
+
+.before-product-name {
+	font-size: 120%;
+	display: block;
+}

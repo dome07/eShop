@@ -1,0 +1,99 @@
+*** WooCommerce Composite Products ***
+
+2013.09.27 - version 1.5.3
+ * Tweak - Important JS and markup revisions.
+
+2013.09.22 - version 1.5.2
+ * Tweak - Dropped price display from item options drop-downs to prepare for WC2.1.
+
+2013.09.21 - version 1.5.1
+ * Feature - Name-Your-Price support for composited NYP products and Composites.
+
+2013.09.21 - version 1.5.0
+ * Tweak - Displayed prices based on get_price and get_price_html for 2.1 compatibility.
+
+2013.09.20 - version 1.4.9
+ * Fix - Re-purchasing composites issue fixed.
+
+2013.08.21 - version 1.4.8
+ * Tweak - CSS tweak.
+
+2013.08.21 - version 1.4.7
+ * Fix - _price meta for per-item-priced Composites is updated when syncing. - thanks Hugh!
+
+2013.08.19 - version 1.4.6
+ * Fix - Compatibility with Add-ons contd. - thanks Patrick!
+
+2013.08.19 - version 1.4.5
+ * Tweak - Minor presentation tweaks.
+
+2013.08.19 - version 1.4.4
+ * Fix - Validation of quantities.
+
+2013.08.17 - version 1.4.3
+ * Tweak - Compatibility with Add-ons.
+ * Tweak - Load default variable product selections.
+
+2013.08.14 - version 1.4.2
+ * Tweak - Security tweaks.
+
+2013.07.30 - version 1.4.1
+ * Fix - Template php notices.
+
+2013.07.30 - version 1.4.0
+ * Feature - Define default Component options.
+
+2013.07.30 - version 1.3.4
+ * Feature - Component options for hiding product titles, descriptions and thumbnails.
+
+2013.07.23 - version 1.3.3
+ * Fix - Fixed zero price error in bto-item-options template.
+
+2013.07.19 - version 1.3.2
+ * Fix - Fixed cart totals initialisation due to missing filter.
+
+2013.07.01 - version 1.3.1
+ * Tweak - Some filters cleaned up.
+ * Fix - Fixed quantity saving bug introduced in 1.3.0.
+
+2013.06.29 - version 1.3.0
+ * Feature - Composite components can now have discounts in per-item pricing mode.
+ * Fix - Fixed variation selection bug for single-item Components.
+
+2013.06.26 - version 1.2.0
+ * Initial Release
+ * Tweak - Compatibility classes feature dropped in favour of a new system (in development).
+
+2013.06.24 - version 1.1.3
+ * Tweak - Renamed 'Properties' to 'Components'.
+ * Fix - Fixed disabled component options when using single-page mode.
+ * Fix - Cart tax labels in per-item pricing mode.
+
+2013.06.19 - version 1.1.2
+ * Tweak - Prevent composite metadata from displaying in order line items.
+ * Tweak - Replaced product title hooks.
+ * Tweak - Implement some forward compatibility with WC 2.1.
+ * Fix - Drop-down product prices in per-item pricing mode no longer use html.
+
+2013.06.16 - version 1.1.1
+ * Fix - Renamed product title hooks.
+
+2013.06.11 - version 1.1.0
+ * Fix - PHP notices fixed.
+ * Fix - Paged UI JS navigation issues.
+
+2013.06.9 - version 1.0.4
+ * Fix - Variable custom attributes fix.
+
+2013.05.31 - version 1.0.3
+ * Tweak - Filtered order items count.
+
+2013.05.23 - version 1.0.2
+ * Fix - Undefined price description.
+ * Tweak - Front end CSS.
+
+2013.05.20 - version 1.0.1
+ * Tweak - Streamlined admin area - added notifications for creating Composite Properties and Compatibility Classes.
+
+2013.05.15 - version 1.0.0
+ * Initial Release.

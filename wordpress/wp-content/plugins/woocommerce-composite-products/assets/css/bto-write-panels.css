@@ -1,0 +1,62 @@
+table.wp-list-table span.product-type.bto {
+	background-position-x: 0px;
+}
+
+#woocommerce-product-data ul.product_data_tabs li.composite_product_options a {
+	background-position: 5px -314px;
+}
+
+.bto_group_data label {
+	width: 22%;
+	margin-right: 10px;
+}
+
+.bto_group_data > div, .bto_group_data > div > div  {
+	display: inline-block;
+	width: 100%;
+}
+
+#woocommerce-product-data .woocommerce_options_panel .bto_group_data > div p {
+	margin: 0;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+	padding: 0;
+	clear: both;
+}
+
+.bto_group_data {
+	line-height: 26px;
+	padding: 10px 3% 15px;
+	background: #fff;
+}
+
+.bto_selector .chzn-container-multi {
+	width:76%!important;
+}
+
+.bto_selector {
+	margin-bottom: 5px;
+}
+
+.bto_custom_selector .chzn-container-multi {
+	width:95%!important;
+}
+
+.bto_group_data textarea {
+	width: 50%;
+	margin-bottom: 5px;
+	height: 9.5em;
+}
+
+.bto_group_data .group_quantity_min input, .bto_group_data .group_quantity_max input, .bto_group_data .group_discount input {
+	width: 60px;
+}
+
+.bto_panel .help_tip {
+	width: 16px;
+	height: 16px;
+}
+
+.bto_panel .table_help_tip {
+	margin-left: 5px;
+}

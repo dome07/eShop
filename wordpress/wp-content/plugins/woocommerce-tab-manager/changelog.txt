@@ -1,0 +1,44 @@
+*** WooCommerce Tab Manager ***
+
+2013.08.23 - version 1.0.9
+ * Localization - Italian and French translations provided by Ali Razzaq
+ * Tweak - Update plugin action links
+
+2013.05.17 - version 1.0.8
+ * Fix - Tab content area is no longer sanitized so stringently, allowing for more HTML tags
+
+2013.05.06 - version 1.0.7
+ * Fix - Product tab override supported in product_page shortcode for WC < 2.0
+ * Fix - Support for unicode characters in tab titles
+
+2013.03.21 - version 1.0.6
+ * Fix - Product tabs also duplicated when product is duplicated
+
+2013.02.17 - version 1.0.5
+ * WooCommerce 2.0 compatibility
+
+2013.02.08 - version 1.0.4.3
+ * Fix - Compatibility with the WooCommerce Branding plugin
+
+2013.02.05 - version 1.0.4.2
+ * Fix - Migration from free "Custom Product Tabs Lite" plugin
+
+2013.01.24 - version 1.0.4.1
+ * Fix - Core tab title editable only in WC 2.0+
+
+2013.01.13 - version 1.0.4
+ * Feature - Core tab heading editable
+
+2012.12.17 - version 1.0.3
+ * Fix - product tabs deleted on product deletion
+ * Fix - save_post filter conflict
+ * Fix - WP 3.5 compatibility (prepare)
+
+2012.12.04 - version 1.0.2
+ * New updater
+
+2012.11.08 - version 1.0.1
+ * Fix - PHP 5.2.x compatibility fix
+
+2012.11.08 - version 1.0
+ * Initial Release

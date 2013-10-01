@@ -1,0 +1,12 @@
+.bundled_table_item .product-name, .bundled_table_item .product-price, .bundled_table_item .product-subtotal, .bundled_table_item .product-quantity, .bundled_table_item .product-total {
+	font-size: 85%;
+}
+
+.bundled_table_item, .bundled_table_item td {
+	border-top: none !important;
+	border-bottom: none !important;
+}
+
+.bundle_table_item, .bundle_table_item td {
+	border-bottom: none !important;
+}
