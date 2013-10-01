@@ -804,15 +804,26 @@ img.wp-smiley,
 	position: relative;
 }
 
+.wrapper_header {
+    max-width: 1080px;
+    min-height: 170px;
+    margin: 0 auto;
+}
+
 .site-header .home-link {
+    background-image: url(images/headers/logo.png);
+    background-repeat: no-repeat;
+    background-position: 0 35px;
 	color: #141412;
 	display: block;
-	margin: 0 auto;
-	max-width: 1080px;
-	min-height: 230px;
+	//margin: 0 auto;
+	//max-width: 1080px;
+	//min-height: 170px;
+    width: 261px;
+    height: 83px;
 	padding: 0 20px;
 	text-decoration: none;
-	width: 100%;
+	//width: 100%;
 }
 
 .site-header .site-title:hover {
