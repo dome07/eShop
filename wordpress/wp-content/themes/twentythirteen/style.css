@@ -824,6 +824,7 @@ img.wp-smiley,
 	padding: 0 20px;
 	text-decoration: none;
 	//width: 100%;
+    float:left;
 }
 
 .site-header .site-title:hover {
@@ -852,9 +853,10 @@ img.wp-smiley,
 .main-navigation {
 	clear: both;
 	margin: 0 auto;
-	max-width: 1080px;
+	max-width: 1050px;
 	min-height: 45px;
 	position: relative;
+    padding-left:30px;
 }
 
 ul.nav-menu,
@@ -869,8 +871,8 @@ div.nav-menu > ul {
 }
 
 .nav-menu li a {
-	color: #141412;
-	display: block;
+    color: #808080;
+    display: block;
 	font-size: 15px;
 	line-height: 1;
 	padding: 15px 20px;
@@ -933,10 +935,10 @@ ul.nav-menu li:hover > ul,
 
 /* Navbar */
 .navbar {
-	background-color: #f7f5e7;
 	margin: 0 auto;
-	max-width: 1600px;
+	max-width: 819px;
 	width: 100%;
+    float:left;
 }
 
 .site-header .search-form {
